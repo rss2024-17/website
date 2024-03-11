@@ -15,6 +15,8 @@ Website at:
 
     https://rss2024-17.github.io/website/
 
+Note: when editing html files, the website takes a few minutes to update.
+
 ## Using the template for lab reports
 
 **You must follow the instructions given in `/latex_report/latex_report.pdf` for your lab reports. This document outlines the expectations for the reports as well as an outline of the required sections.**
